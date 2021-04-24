@@ -10,6 +10,7 @@ Student(s) name(s)
  |-----> Presentation (Optional)
  |-----> Report (Optional)
 ```
+Make a pull request to add to the agent collection
 
 ## Project files
 Project files can be found [here](https://github.com/Hawzen/Othello-Agents/tree/main/Project%20files)
