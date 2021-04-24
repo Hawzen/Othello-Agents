@@ -13,3 +13,6 @@ Student(s) name(s)
 
 ## Project files
 Project files can be found [here](https://github.com/Hawzen/Othello-Agents/tree/main/Project%20files)
+
+### Note
+This repo was created after the final exam of CSC361
