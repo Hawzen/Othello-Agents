@@ -16,7 +16,7 @@ Make a pull request to add to the agent collection
 Project files can be found [here](https://github.com/Hawzen/Othello-Agents/tree/main/Project%20files)
 
 
-## My friend in Thanawi's tournment
+## My friends in Thanawi's tournment
 ![33f91df1-c4fc-494d-a8fb-7070e1140b32](https://user-images.githubusercontent.com/43524721/115958425-24c6cc00-a510-11eb-8af8-beadb9c9c2c9.jpg)
 
 
